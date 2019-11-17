@@ -8,7 +8,7 @@ ritningsnummer: 'V59:202'
 utskrift: A1
 perspektiv:  värme och sanitet ritning
 vy: Källarplan
-drawing: V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4
+drawing: V59-202_varme-sanitet_souterrangplan_1-100_sizeA1_morkullan4
 tags:
   - relationsritning
   - souterrängplan

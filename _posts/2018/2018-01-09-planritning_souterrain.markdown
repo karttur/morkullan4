@@ -8,7 +8,7 @@ ritningsnummer: 'A3:402'
 utskrift: A4
 perspektiv:  planritning
 vy: Souterrängplan
-drawing: A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4
+drawing: A3-402_plan_souterrangplan_1-200_sizeA4_morkullan4
 tags:
   - ritning
   - souterrängplan

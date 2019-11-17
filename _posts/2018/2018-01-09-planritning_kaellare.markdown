@@ -8,7 +8,7 @@ ritningsnummer: 'A3:401'
 utskrift: A4
 perspektiv:  planritning
 vy: källarplan
-drawing: A3-401_plan_källarplan_1-200_sizeA4_morkullan4
+drawing: A3-401_plan_kallarplan_1-200_sizeA4_morkullan4
 tags:
   - ritning
   - källarplan

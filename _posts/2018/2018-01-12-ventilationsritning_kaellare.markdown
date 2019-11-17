@@ -8,7 +8,7 @@ ritningsnummer: 'A3:301-vent'
 utskrift: A1
 perspektiv:  ventilationsritining
 vy: Källarplan
-drawing: A3-301_vent_källarplan_1-100_sizeA1_morkullan4
+drawing: A3-301_vent_kallarplan_1-100_sizeA1_morkullan4
 tags:
   - relationsritning
   - källarplan

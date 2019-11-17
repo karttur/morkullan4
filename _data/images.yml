@@ -1,16 +1,16 @@
-A3-401_plan_källarplan_1-200_sizeA4_morkullan4:
-    file: A3-401_plan_källarplan_1-200_sizeA4_morkullan4.png
-    quicklook: A3-401_plan_källarplan_1-200_sizeA4_morkullan4.jpg
+A3-401_plan_kallarplan_1-200_sizeA4_morkullan4:
+    file: A3-401_plan_kallarplan_1-200_sizeA4_morkullan4.png
+    quicklook: A3-401_plan_kallarplan_1-200_sizeA4_morkullan4.jpg
     author: Thomas Gumbricht
     caption: Morkullan 4, Planritning Källarplan
     credit: null
     source: null
 
-A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4:
-    file: A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4.png
-    quicklook: A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4.jpg
+A3-402_plan_souterrangplan_1-200_sizeA4_morkullan4:
+    file: A3-402_plan_souterrangplan_1-200_sizeA4_morkullan4.png
+    quicklook: A3-402_plan_souterrangplan_1-200_sizeA4_morkullan4.jpg
     author: Thomas Gumbricht
-    caption: Morkullan 4, Planritning Källarplan
+    caption: Morkullan 4, Planritning Souterrängplan
     credit: null
     source: null
 
@@ -18,39 +18,39 @@ A3-403_plan_bottenplan_1-200_sizeA4_morkullan4:
     file: A3-403_plan_bottenplan_1-200_sizeA4_morkullan4.png
     quicklook: A3-403_plan_bottenplan_1-200_sizeA4_morkullan4.jpg
     author: Thomas Gumbricht
-    caption: Morkullan 4, Planritning Källarplan
+    caption: Morkullan 4, Planritning Bottenplan
     credit: null
     source: null
 
 
-A3-301_vent_källarplan_1-100_sizeA1_morkullan4:
-    file: A3-301_vent_källarplan_1-100_sizeA1_morkullan4.png
-    quicklook: A3-301_vent_källarplan_1-100_sizeA1_morkullan4.jpg
+A3-301_vent_kallarplan_1-100_sizeA1_morkullan4:
+    file: A3-301_vent_kallarplan_1-100_sizeA1_morkullan4.png
+    quicklook: A3-301_vent_kallarplan_1-100_sizeA1_morkullan4.jpg
     author: Thomas Gumbricht
     caption: Morkullan 4, Ventilaitonsritning Källarplan
     credit: null
     source: null
 
-A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4:
-    file: A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4.png
-    quicklook: A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4.jpg
+A3-302_vent_souterrangplan_1-100_sizeA1_morkullan4:
+    file: A3-302_vent_souterrangplan_1-100_sizeA1_morkullan4.png
+    quicklook: A3-302_vent_souterrangplan_1-100_sizeA1_morkullan4.jpg
     author: Thomas Gumbricht
-    caption: Morkullan 4, Ventilaitonsritning Souterrängplan
+    caption: Morkullan 4, Ventilaitonsritning souterrängplan
     credit: null
     source: null
 
-V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4:
-    file: V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4.png
-    quicklook: V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4.jpg
+V59-201_värme-sanitet_kallarplan_1-100_sizeA1_morkullan4:
+    file: V59-201_värme-sanitet_kallarplan_1-100_sizeA1_morkullan4.png
+    quicklook: V59-201_värme-sanitet_kallarplan_1-100_sizeA1_morkullan4.jpg
     author: Thomas Gumbricht
-    caption: Morkullan 4, Värme och Sanitet Källarplan
+    caption: Morkullan 4, Varme och Sanitet Källarplan
     credit: null
     source: null
 
-V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4:
-    file: V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4.png
-    quicklook: V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4.jpg
+V59-202_värme-sanitet_souterrangplan_1-100_sizeA1_morkullan4:
+    file: V59-202_värme-sanitet_souterrangplan_1-100_sizeA1_morkullan4.png
+    quicklook: V59-202_värme-sanitet_souterrangplan_1-100_sizeA1_morkullan4.jpg
     author: Thomas Gumbricht
-    caption: Morkullan 4, Värme och Sanitet Souterrängplan
+    caption: Morkullan 4, Varme och Sanitet souterrängplan
     credit: null
     source: null

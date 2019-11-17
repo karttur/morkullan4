@@ -8,7 +8,7 @@ ritningsnummer: 'A3-302_vent'
 utskrift: A1
 perspektiv:  ventilationsritining
 vy: Souterrängplan
-drawing: A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4
+drawing: A3-302_vent_souterrangplan_1-100_sizeA1_morkullan4
 tags:
   - relationsritning
   - souterrängplan

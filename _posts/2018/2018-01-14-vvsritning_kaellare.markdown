@@ -8,7 +8,7 @@ ritningsnummer: 'V59:201'
 utskrift: A1
 perspektiv:  värme och sanitet ritning
 vy: Källarplan
-drawing: V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4
+drawing: V59-201_varme-sanitet_kallarplan_1-100_sizeA1_morkullan4
 tags:
   - relationsritning
   - källarplan
