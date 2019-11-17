@@ -4,7 +4,7 @@ title: Relationsritning ventilation källarplan
 categories: ritningar
 excerpt: "Ventilation Källarplan, plan -2"
 scale: 100
-ritningsnummer: 'A3:310-vent'
+ritningsnummer: 'A3:301-vent'
 utskrift: A1
 perspektiv:  ventilationsritining
 vy: Källarplan

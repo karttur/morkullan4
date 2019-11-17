@@ -4,10 +4,10 @@ title: Relationsritning ventilation souterrängplan
 categories: ritningar
 excerpt: "Ventilation Souterrängplan, plan -1"
 scale: 100
-ritningsnummer: 'A3:310-vent'
+ritningsnummer: 'A3-302_vent'
 utskrift: A1
 perspektiv:  ventilationsritining
-vy: Källarplan
+vy: Souterrängplan
 drawing: A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4
 tags:
   - relationsritning
