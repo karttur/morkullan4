@@ -8,6 +8,14 @@
   url: /
   include: 'N'
 
+- title: Regler
+  url: /regler/
+  include: 'N'
+
+- title: Ekonomi
+  url: /ekonomi/
+  include: 'N'
+
 - title: Ritningar
   url: /ritningar/
   include: 'N'

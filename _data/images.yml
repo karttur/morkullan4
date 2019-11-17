@@ -5,3 +5,52 @@ A3-401_plan_källarplan_1-200_sizeA4_morkullan4:
     caption: Morkullan 4, Planritning Källarplan
     credit: null
     source: null
+
+A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4:
+    file: A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4.png
+    quicklook: A3-402_plan_souterrängplan_1-200_sizeA4_morkullan4.jpg
+    author: Thomas Gumbricht
+    caption: Morkullan 4, Planritning Källarplan
+    credit: null
+    source: null
+
+A3-403_plan_bottenplan_1-200_sizeA4_morkullan4:
+    file: A3-403_plan_bottenplan_1-200_sizeA4_morkullan4.png
+    quicklook: A3-403_plan_bottenplan_1-200_sizeA4_morkullan4.jpg
+    author: Thomas Gumbricht
+    caption: Morkullan 4, Planritning Källarplan
+    credit: null
+    source: null
+
+
+A3-301_vent_källarplan_1-100_sizeA1_morkullan4:
+    file: A3-301_vent_källarplan_1-100_sizeA1_morkullan4.png
+    quicklook: A3-301_vent_källarplan_1-100_sizeA1_morkullan4.jpg
+    author: Thomas Gumbricht
+    caption: Morkullan 4, Ventilaitonsritning Källarplan
+    credit: null
+    source: null
+
+A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4:
+    file: A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4.png
+    quicklook: A3-302_vent_souterrängplan_1-100_sizeA1_morkullan4.jpg
+    author: Thomas Gumbricht
+    caption: Morkullan 4, Ventilaitonsritning Souterrängplan
+    credit: null
+    source: null
+
+V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4:
+    file: V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4.png
+    quicklook: V59-201_värme-sanitet_källarplan_1-100_sizeA1_morkullan4.jpg
+    author: Thomas Gumbricht
+    caption: Morkullan 4, Värme och Sanitet Källarplan
+    credit: null
+    source: null
+
+V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4:
+    file: V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4.png
+    quicklook: V59-202_värme-sanitet_souterrängplan_1-100_sizeA1_morkullan4.jpg
+    author: Thomas Gumbricht
+    caption: Morkullan 4, Värme och Sanitet Souterrängplan
+    credit: null
+    source: null
