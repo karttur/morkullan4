@@ -226,11 +226,11 @@ En juridisk person som är medlem i föreningen får inte utan samtycke av före
 
 Bostadsrättshavaren får inte utan styrelsens tillstånd i lägenheten utföra åtgärd som innefattar
 
-    1. ingrepp i en bärande konstruktion,
+1. ingrepp i en bärande konstruktion,
 
- 2.  ändring av befintliga ledningar för avlopp, värme, gas eller vatten, eller
+2.  ändring av befintliga ledningar för avlopp, värme, gas eller vatten, eller
 
- 3. annan väsentlig förändring av lägenheten.
+3. annan väsentlig förändring av lägenheten.
 
 Styrelsen får inte vägra att medge tillstånd till en åtgärd som avses i första stycket om inte åtgärden är till påtaglig skada eller olägenhet för föreningen.
 
