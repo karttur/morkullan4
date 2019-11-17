@@ -1,0 +1,42 @@
+<h2 class="site-description animated fadeIn" itemprop="description">{{ page.title }}</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>Typ av ritning:</th>
+    <td>{{ page.perspektiv }}</th>
+  </tr>
+  <tr>
+    <td>Föreställande:</td>
+    <td>{{ page.vy }}</td>
+  </tr>
+  <tr>
+    <td>Ritningsnummer:</td>
+    <td>{{ page.ritningsnummer }}</td>
+  </tr>
+  <tr>
+    <td>Skala:</td>
+    <td>1 : {{ page.scale}}</td>
+  </tr>
+  <tr>
+    <td>Utskriftformat:</td>
+    <td>{{ page.utskrift}}</td>
+  </tr>
+  <tr>
+    <td>Filnamn:</td>
+    <td>{{ page.drawing}}</td>
+  </tr>
+</table>
+
+<p>Ritningen nedan är komprimerad både i storlek och kvaltiet. För att ladda hem
+ritningen i fullt format kan du antingen:</p>
+<p> 1. klicka direkt på figuren, ritningen i fullt format kommer då upp på skärmen
+och du kan dra den till skrivbordet,</p>
+<p> 2. högerklicka på figuren (eller länken i nästa punkt) och sedan välja
+"Spara länkad fil som .." ("Download Linked file As ..", eller liknande ),</p>
+<p> 3. Klicka på den här <a href="../doc/{{ site.data.images[page.drawing].file }}">
+  länken till ritning i fullt format</a>, och sedan spara ritningen.</p>
+
+<figure>
+<a href="../doc/{{ site.data.images[page.drawing].file }}">
+<img src="../doc/{{ site.data.images[page.drawing].quicklook }}"></a>
+</figure>

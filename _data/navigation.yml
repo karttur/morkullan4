@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Om BRF Morkullan 4
+  url: /about/
+  include: 'N'
+
+- title: Startsida
+  url: /
+  include: 'N'
+
+- title: Ritningar
+  url: /ritningar/
+  include: 'N'
+
+- title: Övrigt
+  url: /blog/
+  include: 'N'
+
+- title: Sök
+  url: /search/
+  include: 'N'
