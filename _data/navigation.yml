@@ -20,6 +20,10 @@
   url: /ritningar/
   include: 'N'
 
+- title: Historia
+  url: /historia/
+  include: 'N'
+
 - title: Övrigt
   url: /blog/
   include: 'N'
