@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ritningar
-excerpt: "Ritningar"
+title: Stadgar och andra regler
+excerpt: "Stadgar och andra regler"
 search_omit: true
 ---
 
