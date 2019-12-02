@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: Om BRF Morkullan 4
-  url: /about/
+- title: Hem
+  url: /
   include: 'N'
 
-- title: Startsida
-  url: /
+- title: Aktuellt
+  url: /aktuellt
   include: 'N'
 
 - title: Regler
@@ -16,6 +16,14 @@
   url: /ekonomi/
   include: 'N'
 
+- title: Teknik
+  url: /teknik/
+  include: 'N'
+
+- title: Miljö
+  url: /environ/
+  include: 'N'
+
 - title: Ritningar
   url: /ritningar/
   include: 'N'
@@ -24,8 +32,12 @@
   url: /historia/
   include: 'N'
 
-- title: Övrigt
-  url: /blog/
+- title: Arkiv
+  url: /arkiv/
+  include: 'N'
+
+- title: Kontakt
+  url: /about
   include: 'N'
 
 - title: Sök
